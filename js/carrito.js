@@ -291,6 +291,8 @@ modalCarrito.addEventListener('click', (event)=>{
 let usuario
 const usuarioLS = localStorage.getItem('UserNameReg')
 
+userLog() 
+
 function userLog() {
     
     if (usuarioLS){
@@ -300,7 +302,7 @@ function userLog() {
         Swal.fire({
             title: 'Para continuar por favor registrese',
             
-            icon: 'Warning',
+            icon: 'warning',
             
             
             confirmButtonText: `<a href="form.html">Log In</a>`,
@@ -315,7 +317,6 @@ function userLog() {
     
 }
 
-userLog() 
 
 
 
