@@ -1,3 +1,5 @@
+// -- FUNCION DEL CLIMA
+
 const climaCheck = document.querySelector('#clima_info')
 
 let climaFeature = []
