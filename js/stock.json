@@ -1,0 +1,12 @@
+ [
+{"nombre": "Estéreo para auto", "modelo": "MVH S215BT", "valor": 19000, "atributos": "Con USB y Bluetooth", "marca": "Pioneer", "cantidad": 1, "id": 1, "img": "./img/estereoPioneer.jpg"},
+{"nombre": "Parlantes 6x9", "modelo": "Ts A 6960", "valor": 16599, "atributos": "4 Vias y 450W PMPO", "marca": "Pioneer", "cantidad": 1, "id": 2, "img": "./img/parlantesPioneer.jpg"},
+{"nombre": "Potencia", "modelo": "Gm-a3602", "valor": 32000, "atributos": "2 canales puenteables", "marca": "Pioneer", "cantidad": 1, "id": 3, "img": "./img/potenciaPioneer.jpg"},
+{"nombre": "Estéreo para auto", "modelo": "DSX A410BT", "valor": 27999, "atributos": "Con USB y bluetooth", "marca": "Sony", "cantidad": 1, "id": 4, "img": "./img/estereoSony.jpg"},
+{"nombre": "Parlantes 6x9", "modelo": "Xs-fb6930", "valor": 24.990, "atributos": "3 Vias 450 Watt 4 Ohms", "marca": "Sony", "cantidad": 1, "id": 5, "img": "./img/parlantesSony.jpg"},
+{"nombre": "Potencia", "modelo": "Xm-n1004", "valor": 26500, "atributos": "100w X 4.", "marca": "Sony", "cantidad": 1, "id": 6, "img": "./img/potenciaSony.jpg"},
+{"nombre": "Estéreo para auto", "modelo": "CDE-175BT", "valor": 49900, "atributos": "Con USB y bluetooth", "marca": "Alpine", "cantidad": 1, "id": 7, "img": "./img/estereoAlpine.jpg"},
+{"nombre": "Parlantes 6x9", "modelo": "R-s69", "valor": 33328, "atributos": "100w Rms Spr-69", "marca": "Alpine", "cantidad": 1, "id": 8, "img": "./img/parlantesAlpine.jpg"},
+{"nombre": "Potencia", "modelo": "S-A55V", "valor": 71388, "atributos": "40w X 4 + 1 Canal 300w Rms", "marca": "Alpine", "cantidad": 1, "id": 9, "img": "./img/potenciaAlpine.jpg"}
+ ]
+
